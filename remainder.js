@@ -1,8 +1,4 @@
-// let x = 30;
-// let y = 10;
-// let remainder = x % y;
+let num1 = 50;
+let num2 = 3;
 
-// console.log("the remainder of " + 30 + " divided by " + 9 + " is " + remainder)
-
-
-// console.log(`The remainder of ${num1} divided by ${num2} is ${num1 % num2}.`);
+console.log(`The remainder of ${num1} divided by ${num2} is: ${num1 % num2}`);
